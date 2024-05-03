@@ -1,0 +1,15 @@
+body {
+    background-color: #7D82B8;
+}
+
+.navbar {
+  font-size: x-large;
+}
+
+.navbar-collapse {
+    left: 50%;
+}
+
+.navbar-brand {
+  font-size: x-large;
+}
