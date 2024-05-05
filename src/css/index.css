@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: #7D82B8;
 }
@@ -13,3 +14,20 @@ body {
 .navbar-brand {
   font-size: x-large;
 }
+=======
+body {
+    background-color: #7D82B8;
+}
+
+.navbar {
+  font-size: x-large;
+}
+
+.navbar-collapse {
+    left: 50%;
+}
+
+.navbar-brand {
+  font-size: x-large;
+}
+>>>>>>> 8dd8d909e28a00d3e266b5ec65b5fa61fca3f486
