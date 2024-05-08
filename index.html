@@ -17,11 +17,11 @@
       integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
       crossorigin="anonymous"
     />
+    <link rel="stylesheet" href="src/css/geral.css" />
     <link rel="stylesheet" href="src/css/index.css" />
     <link rel="stylesheet" href="src/css/responsivo.css" />
   </head>
   <body>
-
     <header>
       <nav
         class="navbar navbar-expand-lg bg-tertiary position-relative"
@@ -55,19 +55,66 @@
                 <a class="nav-link active" aria-current="page" href="#">Menu</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Educativos e Vestibulares</a>
+                <a class="nav-link" href="#">Livros</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Ficção-Científica</a>
+                <a class="nav-link" href="#">Roupas</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Quadrinhos</a>
+                <a class="nav-link" href="#">Objetos</a>
               </li>
             </ul>
-          </div>
         </div>
       </nav>
     </header>
+
+    <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel" align="center">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="src/image/teste.png" class="d-block" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="" class="d-block" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="..." class="d-block" alt="...">
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+
+    <footer>
+      <div
+        class="card"
+        align="center"
+        style="background-color: rgba(30, 108, 147, 1)"
+      >
+        <div class="card-body" style="color: white">
+          <b>
+            <h4 class="card-title h4">
+              Feito Por: <br />
+              ...
+            </h4>
+            <p></p>
+            <h4 class="card-title h4">
+              Créditos à: <br />
+              Escola Estadual profissionalizante Mário Alencar
+            </h4>
+            <p></p>
+            <h4 class="card-title h4">
+              Rua verde 44, Sítio São João, Fortaleza-Ce
+            </h4>
+          </b>
+        </div>
+      </div>
+    </footer>
 
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"

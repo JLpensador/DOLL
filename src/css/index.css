@@ -1,15 +1,4 @@
-body {
-    background-color: #7D82B8;
+.card-title {
+    padding: 1px;
 }
 
-.navbar {
-  font-size: x-large;
-}
-
-.navbar-collapse {
-    left: 50%;
-}
-
-.navbar-brand {
-  font-size: x-large;
-}
