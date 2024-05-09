@@ -1,16 +1,14 @@
 @media (max-width: 990px) {
+  #logo {
+    width: 10%;
+  }
 
-    #logo {
-        width: 10%;
-    }
+  .position-absolute {
+    position: relative !important;
+  }
 
-    .position-absolute {
-        position: relative!important;
-    }
-
-    .translate-middle {
-        position: relative;
-        transform: translate(-50%, 0%)!important;
-    }
-    
+  .translate-middle {
+    position: relative;
+    transform: translate(-50%, 0%) !important;
+  }
 }

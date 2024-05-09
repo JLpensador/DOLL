@@ -1,13 +1,22 @@
 body {
-    background-color: #7D82B8;
+  background-color: #7d82b8;
+}
+
+#nav-logo {
+  width: 100%;
 }
 
 .navbar {
-  font-size: x-large;
+  font-size: xx-large;
+}
+
+.navbar-toggler {
+  position: absolute;
+  left: 90%;
 }
 
 .navbar-collapse {
-    left: 50%;
+  left: 50%;
 }
 
 .navbar-brand {
