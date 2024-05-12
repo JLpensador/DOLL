@@ -1,4 +1,3 @@
-// Função para alternar entre Pegar e Devolver um produto
 function alternarProduto(id) {
     const estadoAtual = localStorage.getItem('produto_' + id);
 
