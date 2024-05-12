@@ -22,3 +22,8 @@ body {
 .navbar-brand {
   font-size: x-large;
 }
+
+.d-flex {
+  position: sticky;
+  right: 2%;
+}

@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Produto 1",
+        "description": "Descrição do Produto 1",
+        "imageUrl": "caminho/para/imagem1.jpg",
+        "isTaken": false
+    },
+    {
+        "id": 2,
+        "name": "Produto 2",
+        "description": "Descrição do Produto 2",
+        "imageUrl": "caminho/para/imagem2.jpg",
+        "isTaken": true
+    },
+    {
+        "id": 3,
+        "name": "Produto 3",
+        "description": "Descrição do Produto 3",
+        "imageUrl": "caminho/para/imagem3.jpg",
+        "isTaken": false
+    }
+]
