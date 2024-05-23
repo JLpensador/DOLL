@@ -1,3 +1,26 @@
 .card-title {
   padding: 1px;
 }
+
+.carousel-control-prev {
+  position: absolute;
+  border: solid chocolate;
+  background-color: black;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  width: 95%;
+  max-width: 90px;
+  top: 333px;
+}
+
+.carousel-control-next {
+  position: absolute;
+  border: solid chocolate;
+  background-color: black;
+  border-radius: 50%;
+  height: 100px;
+  width: 95%;
+  max-width: 90px;
+  top: 333px;
+}
