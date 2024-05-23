@@ -27,3 +27,7 @@ body {
   position: sticky;
   right: 2%;
 }
+
+.d-block {
+  width: 100%;
+}
