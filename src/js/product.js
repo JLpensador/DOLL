@@ -23,7 +23,7 @@ module.exports = Product;
 // pesquisa
 function searchProducts() {
         var input = document.getElementById('main').value.toLowerCase();
-        var productList = document.getElementById('product-list');
+        var productList = document.getElementById('form-control me-2');
         var products = productList.getElementsByTagName('li');
         
         for (var i = 0; i < products.length; i++) {
