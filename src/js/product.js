@@ -19,3 +19,20 @@ const ProductSchema = new mongoose.Schema({
 const Product = mongoose.model('Product', ProductSchema);
 
 module.exports = Product;
+
+// pesquisa
+function searchProducts() {
+        var input = document.getElementById('search-box').value.toLowerCase();
+        var productList = document.getElementById('product-list');
+        var products = productList.getElementsByTagName('li');
+        
+        for (var i = 0; i < products.length; i++) {
+            var productName = products[i].innerText.toLowerCase();
+            if (productName.indexOf(input) > -1) {
+                products[i].style.display = '';
+            } else {
+                products[i].style.display = 'none';
+            }
+        }
+    }
+    document.getElementById('search-box').addEventListener('input', searchProducts);
