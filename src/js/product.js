@@ -22,7 +22,7 @@ module.exports = Product;
 
 // pesquisa
 function searchProducts() {
-        var input = document.getElementById('main').value.toLowerCase();
+        var input = document.getElementById('form-control me-2').value.toLowerCase();
         var productList = document.getElementById('form-control me-2');
         var products = productList.getElementsByTagName('li');
         
@@ -35,4 +35,4 @@ function searchProducts() {
             }
         }
     }
-    document.getElementById('search-box').addEventListener('input', searchProducts);
+    document.getElementById('form-control me-2').addEventListener('input', searchProducts);
