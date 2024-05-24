@@ -20,13 +20,12 @@ const Product = mongoose.model('Product', ProductSchema);
 
 module.exports = Product;
 
-// pesquisa
-function searchProducts() {
+    function searchProducts() {
         var input = document.getElementById('form-control me-2').value.toLowerCase();
         var productList = document.getElementById('navbar-nav');
         var products = productList.getElementsByTagName('li');
         
-        for (var i = 0; i < products.length; i++) {
+        for (var i = 0; i < product.length; i++) {
             var productName = products[i].innerText.toLowerCase();
             if (productName.indexOf(input) > -1) {
                 products[i].style.display = '';
@@ -35,4 +34,6 @@ function searchProducts() {
             }
         }
     }
+
     document.getElementById('form-control me-2').addEventListener('input', pesquisa);
+    document.getElementById('search-button').addEventListener('click', pesquisa);
