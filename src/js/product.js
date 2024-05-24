@@ -35,5 +35,5 @@ module.exports = Product;
         }
     }
 
-    document.getElementById('form-control me-2').addEventListener('input', pesquisa);
-    document.getElementById('search-button').addEventListener('click', pesquisa);
+    document.getElementById('form-control me-2').addEventListener('input', Pesquisar);
+    document.getElementById('btn btn-outline-success').addEventListener('click', Pesquisar);
