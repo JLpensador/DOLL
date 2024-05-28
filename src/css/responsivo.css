@@ -1,3 +1,9 @@
+@media (max-width: 1270px) {
+  .product-list {
+    justify-content: left !important;
+  }
+}
+
 @media (max-width: 990px) {
   #logo {
     width: 10%;
@@ -10,5 +16,11 @@
   .translate-middle {
     position: relative;
     transform: translate(-50%, 0%) !important;
+  }
+}
+
+@media (max-width: 420px) {
+  .subtitulo-produtos {
+    max-width: 100% !important;
   }
 }
