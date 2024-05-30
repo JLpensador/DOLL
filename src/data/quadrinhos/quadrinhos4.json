@@ -1,0 +1,37 @@
+[
+  {
+    "name": "A Condessa Vermelha",
+    "href": "#",
+    "description": "Quadrinho da Turma da Mônica",
+    "about": "A trama começa quando Mônica e sua turma, durante uma viagem escolar, decidem explorar um antigo castelo abandonado que dizem ser assombrado. Eles são atraídos pela lenda da Condessa Vermelha, uma figura misteriosa que assombra os corredores do castelo há séculos. Determinados a desvendar o mistério, Mônica e seus amigos entram no castelo e se deparam com uma série de enigmas e perigos.",
+    "imageUrl": "src/image/produtos/livros/condessaVermelha.png",
+    "isTaken": false
+  },
+
+  {
+    "name": "O Apanhador de Sonhos",
+    "href": "#",
+    "description": "Quadrinho da Turma da Mônica",
+    "about": "A história começa com Cebolinha, que está tendo problemas com pesadelos que o perturbam durante a noite. Preocupado com seu sono agitado, ele decide procurar uma solução para seus problemas de sonho. Ao encontrar um apanhador de sonhos, um artefato tradicionalmente usado para filtrar sonhos ruins, Cebolinha espera resolver seus pesadelos e ter noites mais tranquilas.",
+    "imageUrl": "src/image/produtos/livros/apanhadorDeSonhos.png",
+    "isTaken": false
+  },
+
+  {
+    "name": "O Centro do Universo",
+    "href": "#",
+    "description": "Quadrinho da Turma da Mônica",
+    "about": "A história começa quando Magali, como de costume, está desfrutando de um delicioso lanche em sua casa. De repente, ela percebe que sua comida favorita, uma torta de limão, desapareceu misteriosamente. Determinada a encontrar sua torta, Magali embarca em uma aventura que a leva a lugares inesperados.",
+    "imageUrl": "src/image/produtos/livros/universo.png",
+    "isTaken": false
+  },
+
+  {
+    "name": "O Mestre dos Guarda-Chuvas",
+    "href": "#",
+    "description": "Quadrinho da Turma da Mônica",
+    "about": "A trama começa quando Cascão, enfrentando uma forte tempestade, percebe que não possui um guarda-chuva para se proteger da chuva. Determinado a evitar a água a todo custo, ele decide encontrar uma solução rápida para o seu problema. É então que ele ouve falar do lendário \"Mestre dos Guarda-Chuvas\", um personagem misterioso que dizem ter o poder de proteger qualquer um da chuva.",
+    "imageUrl": "src/image/produtos/livros/mestreGuardaChuva.png",
+    "isTaken": false
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "A Nuvem que Roubava Ideias",
+    "href": "#",
+    "description": "Quadrinho da Turma da Mônica",
+    "about": "Uma nuvem misteriosa começa a aparecer sobre o Bairro do Limoeiro, causando muita confusão. Os personagens logo percebem que a nuvem tem a capacidade de roubar ideias das pessoas, deixando todos confusos e incapazes de pensar claramente.",
+    "imageUrl": "src/image/produtos/livros/nuvemRoubaIdeias.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Espirito de Aniversário",
+    "href": "#",
+    "description": "Quadrinho da Turma da Mônica",
+    "about": "Chico Bento está animado com a chegada de seu aniversário. Como sempre, ele espera comemorar com sua família e amigos na roça. No entanto, desta vez, algo especial e misterioso acontece, adicionando um toque mágico à celebração.",
+    "imageUrl": "src/image/produtos/livros/espiritoAniversario.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "O Mapa do Tesouro",
+    "href": "#",
+    "description": "Quadrinho da Turma da Mônica",
+    "about": "Chico Bento está animado com a chegada de seu aniversário. Como sempre, ele espera comemorar com sua família e amigos na roça. No entanto, desta vez, algo especial e misterioso acontece, adicionando um toque mágico à celebração.",
+    "imageUrl": "src/image/produtos/livros/mapaTesouro.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "O monstro da Piscina",
+    "href": "#",
+    "description": "Quadrinho da Turma da Mônica",
+    "about": " A história começa com os amigos de Cascão planejando passar o dia em uma piscina pública. Cascão, obviamente, está relutante e tenta encontrar maneiras de evitar a situação.",
+    "imageUrl": "src/image/produtos/livros/monstroDaPiscina.jpg",
+    "isTaken": false
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Cebolinha Indígena",
+    "href": "#",
+    "description": "Quadrinho da Turma da Mônica",
+    "about": "Cebolinha, conhecido por seus planos infalíveis para derrotar a Mônica e roubar o coelho Sansão, acaba se metendo em uma grande confusão. Enquanto está em casa, ele de alguma forma consegue prender a cabeça na pia do banheiro. A partir daí, começa uma série de tentativas hilárias de se libertar.",
+    "imageUrl": "src/image/produtos/livros/cebolinhaIndigina.png",
+    "isTaken": false
+  },
+
+  {
+    "name": "Coelhadas Extraterrestres",
+    "href": "#",
+    "description": "Quadrinho da Turma da Mônica",
+    "about": "Mônica e sua turma se deparam com uma situação inusitada: uma invasão alienígena no Bairro do Limoeiro. Os extraterrestres, aparentemente pacíficos, acabam gerando muita confusão, especialmente quando descobrem o famoso coelhinho Sansão, que desperta um interesse especial neles.",
+    "imageUrl": "src/image/produtos/livros/coelhadasExtras.png",
+    "isTaken": false
+  },
+
+  {
+    "name": "Cuidado com apagão",
+    "href": "#",
+    "description": "Quadrinho da Turma da Mônica",
+    "about": "Cascão e seus amigos se deparam com uma falha elétrica que deixa o Bairro do Limoeiro completamente no escuro. Para alguém como Cascão, que já tem medo de água, a escuridão traz uma série de novas preocupações e aventuras. Ele precisa lidar com o medo e, ao mesmo tempo, ajudar seus amigos a enfrentarem a situação.",
+    "imageUrl": "src/image/produtos/livros/CuidadoApagão.png",
+    "isTaken": false
+  },
+
+  {
+    "name": "O Líquido Transportador",
+    "href": "#",
+    "description": "Quadrinho da Turma da Mônica",
+    "about": "Os personagens da Turma da Mônica se envolvem com uma substância misteriosa que tem a capacidade de transportá-los instantaneamente para diferentes locais. Tudo começa quando Franjinha, o cientista mirim do grupo, desenvolve uma nova invenção: um líquido especial que, quando aplicado em uma superfície, permite que qualquer pessoa que o toque seja transportada para outro lugar.",
+    "imageUrl": "src/image/produtos/livros/liquidoTransportador.jpg",
+    "isTaken": false
+  }
+]

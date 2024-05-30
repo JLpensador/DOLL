@@ -1,0 +1,37 @@
+[
+  {
+    "name": "A Batalha dos Iutubers",
+    "href": "#",
+    "description": "Quadrinhos da Turma da Mônica",
+    "about": "A trama começa quando Cascão e seus amigos da Turma da Mônica decidem participar de um concurso de criação de vídeos para a internet, inspirados pelo sucesso dos \"iutubers\" (uma paródia dos YouTubers). Eles criam seus próprios canais e começam a produzir conteúdo para competir na batalha dos \"iutubers\".",
+    "imageUrl": "src/image/produtos/livros/iutubers.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Educação é uma Questão de Tempo",
+    "href": "#",
+    "description": "Quadrinhos da Turma da Mônica",
+    "about": "A trama começa quando Cebolinha se vê em uma situação em que precisa lidar com questões relacionadas à sua educação e uso adequado do tempo. Ele pode estar enfrentando dificuldades na escola, tendo problemas para cumprir prazos ou lidando com a pressão dos estudos.",
+    "imageUrl": "src/image/produtos/livros/questãoTempo.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Festa da Mamona",
+    "href": "#",
+    "description": "Quadrinhos da Turma da Mônica",
+    "about": "A trama começa quando os personagens da Turma da Mônica decidem organizar uma festa temática dedicada à mamona. Eles planejam uma série de atividades e brincadeiras relacionadas à planta, incluindo jogos, degustações de alimentos feitos com mamona e outras atrações.",
+    "imageUrl": "src/image/produtos/livros/festaMamona.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Moniquinha Paz e Amor",
+    "href": "#",
+    "description": "Quadrinhos da Turma da Mônica",
+    "about": "A trama começa quando Mônica decide adotar uma abordagem mais pacífica em suas interações com seus amigos e com o mundo ao seu redor. Ela busca resolver conflitos de forma tranquila, promover a amizade e cultivar uma atmosfera de harmonia em seu círculo social.",
+    "imageUrl": "src/image/produtos/livros/pazAmor.jpg",
+    "isTaken": false
+  }
+]

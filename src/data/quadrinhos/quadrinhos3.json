@@ -1,0 +1,37 @@
+[
+  {
+    "name": "A Máquina de Lavar Assombrada",
+    "href": "#",
+    "description": "Quadrinho da Turma da Mônica",
+    "about": "Cascão se depara com uma máquina de lavar que parece estar possuída ou encantada, criando uma situação de terror cômico que desafia seu medo de água e sujeira.",
+    "imageUrl": "src/image/produtos/livros/maquinaLavar.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "No Mundo dos Planos Infalíveis",
+    "href": "#",
+    "description": "Quadrinho da Turma da Mônica",
+    "about": "gira em torno de uma aventura mágica e inusitada onde Mônica e seus amigos acabam entrando em um mundo paralelo criado pelos planos infalíveis de Cebolinha. Este mundo é repleto de situações engraçadas e surreais, onde as ideias e esquemas de Cebolinha se materializam de maneiras inesperadas.",
+    "imageUrl": "src/image/produtos/livros/planosInfaliveis.png",
+    "isTaken": false
+  },
+
+  {
+    "name": "O Mundo dos Dinossauros",
+    "href": "#",
+    "description": "Quadrinho da Turma da Mônica",
+    "about": "Cebolinha e seus amigos acabam viajando no tempo para a era dos dinossauros. Esta viagem os coloca em contato direto com criaturas gigantescas e desafios que nunca imaginaram enfrentar.",
+    "imageUrl": "src/image/produtos/livros/mundoDinossauros.png",
+    "isTaken": false
+  },
+
+  {
+    "name": "Xaveco ganhou uma Revista",
+    "href": "#",
+    "description": "Quadrinho da Turma da Mônica",
+    "about": "Xaveco finalmente tem a chance de ser o protagonista. A trama gira em torno das reações de seus amigos e das aventuras que ele vive ao estar no centro das atenções pela primeira vez.",
+    "imageUrl": "src/image/produtos/livros/xaveco.png",
+    "isTaken": false
+  }
+]

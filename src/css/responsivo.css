@@ -2,6 +2,14 @@
   .product-list {
     justify-content: left !important;
   }
+
+  .carousel-control-prev {
+    left: 0%;
+  }
+
+  .carousel-control-next {
+    right: 0%;
+  }
 }
 
 @media (max-width: 990px) {

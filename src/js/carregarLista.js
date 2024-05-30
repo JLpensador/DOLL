@@ -1,31 +1,4 @@
-function alternarProduto(id) {
-  const estadoAtual = localStorage.getItem("produto_" + id);
-  if (estadoAtual === "pegado") {
-    localStorage.removeItem("produto_" + id);
-    return "Pegar";
-  } else {
-    localStorage.setItem("produto_" + id, "pegado");
-    return "Devolver";
-  }
-}
-
-function atualizarBotão(id) {
-  const Botão = document.getElementById("Botão_" + id);
-  const estadoAtual = localStorage.getItem("produto_" + id);
-  if (estadoAtual === "pegado") {
-    Botão.textContent = "Devolver";
-  } else {
-    Botão.textContent = "Pegar";
-  }
-}
-
-function cliqueBotão(id) {
-  const Botão = document.getElementById("Botão_" + id);
-  Botão.addEventListener("click", function () {
-    alternarProduto(id);
-    atualizarBotão(id);
-  });
-}
+import { alternarProduto, atualizarBotão, cliqueBotão } from "./estoque.js";
 
 function showProductList(products, containerId) {
   const productListContainer = document.getElementById(containerId);
@@ -60,14 +33,18 @@ function showProductList(products, containerId) {
 
 function loadData(jsonFile, containerId) {
   fetch(jsonFile)
-    .then(response => response.json())
-    .then(data => {
+    .then((response) => response.json())
+    .then((data) => {
       showProductList(data, containerId);
     })
-    .catch(error => console.error('Erro ao carregar os dados:', error));
+    .catch((error) => console.error("Erro ao carregar os dados:", error));
 }
 
-document.addEventListener('DOMContentLoaded', () => {
-  loadData('src/data/coluna1.json', 'product-list1');
-  loadData('coluna2.json', 'product-list2');
+document.addEventListener("DOMContentLoaded", () => {
+  loadData("src/data/quadrinhos/quadrinhos1.json", "quadrinhos1");
+  loadData("src/data/quadrinhos/quadrinhos2.json", "quadrinhos2");
+  loadData("src/data/quadrinhos/quadrinhos3.json", "quadrinhos3");
+  loadData("src/data/quadrinhos/quadrinhos4.json", "quadrinhos4");
+  loadData("src/data/quadrinhos/quadrinhos5.json", "quadrinhos5");
+  loadData("src/data/quadrinhos/quadrinhos6.json", "quadrinhos6");
 });

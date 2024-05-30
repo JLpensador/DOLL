@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Em busca do Gibi N* 1",
+    "href": "#",
+    "description": "Quadrinho da Turma da Mônica",
+    "about": "A trama começa quando Cebolinha descobre que o primeiro gibi da Mônica sumiu de sua coleção. Determinado a encontrar o gibi perdido como um presente para Mônica, ele convence sua amiga a ajudá-lo em uma jornada de busca.",
+    "imageUrl": "src/image/produtos/livros/gibiN1.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "O Biscoito da Sorte",
+    "href": "#",
+    "description": "Quadrinho da Turma da Mônica",
+    "about": "A trama começa quando Cebolinha descobre que o primeiro gibi da Mônica sumiu de sua coleção. Determinado a encontrar o gibi perdido como um presente para Mônica, ele convence sua amiga a ajudá-lo em uma jornada de busca.",
+    "imageUrl": "src/image/produtos/livros/biscoitoSorte.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "O Plano B",
+    "href": "#",
+    "description": "Quadrinho da Turma da Mônica",
+    "about": "A trama começa quando Cascão se depara com um problema ou desafio específico, que pode variar de acordo com a história. Ele elabora um plano inicial para resolver o problema, mas algo inesperado acontece e o plano falha, deixando-o em uma situação complicada.",
+    "imageUrl": "src/image/produtos/livros/planoB.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Inimigo é pra isso",
+    "href": "#",
+    "description": "Quadrinho da Turma da Mônica",
+    "about": "A trama começa quando Cascão se depara com um problema ou desafio específico em sua vida cotidiana. Pode ser algo relacionado a um valentão na escola, um vilão em uma aventura imaginária, ou qualquer outra situação em que Cascão precise lidar com um \"inimigo\".",
+    "imageUrl": "src/image/produtos/livros/inimigo.jpg",
+    "isTaken": false
+  }
+]

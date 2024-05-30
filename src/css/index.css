@@ -3,24 +3,25 @@
 }
 
 .carousel-control-prev {
-  position: absolute;
   border: solid chocolate;
   background-color: black;
   border-radius: 50%;
   height: 100px;
   width: 100px;
-  width: 95%;
+  width: 40%;
   max-width: 90px;
-  top: 333px;
+  top: 45%;
+  left: 10%;
+ 
 }
 
 .carousel-control-next {
-  position: absolute;
   border: solid chocolate;
   background-color: black;
   border-radius: 50%;
   height: 100px;
-  width: 95%;
+  width: 40%;
   max-width: 90px;
-  top: 333px;
+  top: 45%;
+  right: 10%;
 }
