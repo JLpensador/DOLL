@@ -9,12 +9,20 @@ body {
 }
 
 .subtitulo-produtos {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
   margin-top: 20px;
   margin-bottom: -2%;
   text-align: center;
   font-size: 40px;
   font-weight: 100;
-  max-width: 50%;
+}
+
+.subtitulo-produtos a {
+  font-size: 35px;
+  text-decoration: underline;
+  z-index: 1;
 }
 
 .product-list {
@@ -28,6 +36,12 @@ body {
 .product-item {
   min-width: 250px;
   max-width: 250px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.product-item:hover {
+  transform: scaleX(1) translateY(-1px);
+    box-shadow: 0 20px 30px rgba(0, 0, 0, 0.2);
 }
 
 .product-card {

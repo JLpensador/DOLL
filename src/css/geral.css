@@ -1,18 +1,19 @@
 body {
-  background-color: #536d88;
-   }
+  background-color: #157a8c;
+}
+
+a {
+  text-decoration: none;
+  color: #4b3c5d;
+}
 
 #nav-logo {
   width: 100%;
+  
 }
 
 .navbar {
   font-size: xx-large;
-}
-
-.navbar-toggler {
-  position: absolute;
-  left: 85%;
 }
 
 .navbar-collapse {
