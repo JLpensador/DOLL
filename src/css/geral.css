@@ -9,11 +9,12 @@ a {
 
 #nav-logo {
   width: 100%;
-  
 }
 
 .navbar {
-  font-size: xx-large;
+  font-size: xxx-large;
+  font-family: monospace;
+  background-color: #e0e0e0;
 }
 
 .navbar-collapse {

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Feel the Universe",
+    "href": "#",
+    "description": "Decoração de parede",
+    "about": "",
+    "imageUrl": "src/image/produtos/objetos/quadro.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Campainha Artesanal",
+    "href": "#",
+    "description": "Decoração de Porta",
+    "about": "",
+    "imageUrl": "src/image/produtos/objetos/golfinhos.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Made in America",
+    "href": "#",
+    "description": "Decoração de parede",
+    "about": "",
+    "imageUrl": "src/image/produtos/objetos/america.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Life's a Beach",
+    "href": "#",
+    "description": "Decoração de parede",
+    "about": "",
+    "imageUrl": "src/image/produtos/objetos/beach.jpg",
+    "isTaken": false
+  }
+]
+

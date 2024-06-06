@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Vamos Trabalhar",
+    "href": "#",
+    "description": "Livro de Matemática",
+    "about": "",
+    "imageUrl": "src/image/produtos/livros/vamosTrabalhar.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Meu Livro de Folclore",
+    "href": "#",
+    "description": "Livro Paradidático Infantil",
+    "about": "",
+    "imageUrl": "src/image/produtos/livros/meuLivroFolclore.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Mais Respeito, eu sou Criança!",
+    "href": "#",
+    "description": "Livro Paradidático Infantil",
+    "about": "",
+    "imageUrl": "src/image/produtos/livros/euSouCriança.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Fábulas Palpitadas",
+    "href": "#",
+    "description": "Livro Paradidático Infantil",
+    "about": "",
+    "imageUrl": "src/image/produtos/livros/fabulasPalpitadas.jpg",
+    "isTaken": false
+  }
+]

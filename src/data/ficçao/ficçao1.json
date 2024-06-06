@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Minha Primeira Paixão",
+    "href": "#",
+    "description": "Livro de Romance",
+    "about": "",
+    "imageUrl": "src/image/produtos/livros/minhaPrimeiraPaixao.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Capitão Cueca",
+    "href": "#",
+    "description": "Livro de comédia",
+    "about": "",
+    "imageUrl": "src/image/produtos/livros/capitaoCueca.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "As aventuras de Sherlock Holmes",
+    "href": "#",
+    "description": "Livro de Suspense",
+    "about": "",
+    "imageUrl": "src/image/produtos/livros/sherlockHolmes.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Amor não tem Cor",
+    "href": "#",
+    "description": "Livro de Superação",
+    "about": "",
+    "imageUrl": "src/image/produtos/livros/amorNaoTemCor.jpg",
+    "isTaken": false
+  }
+]

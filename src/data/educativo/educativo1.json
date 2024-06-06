@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Educação de Jovens e Adultos",
+    "href": "#",
+    "description": "Livro de Multi-matérias",
+    "about": "",
+    "imageUrl": "src/image/produtos/livros/jovensAdultos.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Infância Feliz",
+    "href": "#",
+    "description": "Livro de Lingua Portuguesa",
+    "about": "",
+    "imageUrl": "src/image/produtos/livros/infanciaFeliz.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Assim eu aprendo Gramática",
+    "href": "#",
+    "description": "Livro de Lingua Portuguesa",
+    "about": "",
+    "imageUrl": "src/image/produtos/livros/assimGramatica.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Assim eu aprendo Matemática",
+    "href": "#",
+    "description": "Livro de Matemática",
+    "about": "",
+    "imageUrl": "src/image/produtos/livros/assimMatematica.jpg",
+    "isTaken": false
+  }
+]

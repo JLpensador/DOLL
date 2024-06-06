@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Namoro Blindado",
+    "href": "#",
+    "description": "Livro Auto-Ajuda",
+    "about": "",
+    "imageUrl": "src/image/produtos/livros/namoroBlindado.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Minecraft a Vingança",
+    "href": "#",
+    "description": "Livro de Aventura",
+    "about": "",
+    "imageUrl": "src/image/produtos/livros/minecraft.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Huckleberry Finn",
+    "href": "#",
+    "description": "Livro de Aventura",
+    "about": "",
+    "imageUrl": "src/image/produtos/livros/huckleberry.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Casa de Segredos",
+    "href": "#",
+    "description": "Livro de Suspense",
+    "about": "",
+    "imageUrl": "src/image/produtos/livros/casaDeSegredos.jpg",
+    "isTaken": false
+  }
+]

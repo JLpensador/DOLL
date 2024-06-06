@@ -22,7 +22,7 @@
 
 <body>
   <header>
-    <nav class="navbar navbar-expand-lg bg-tertiary position-relative" style="background-color: #e0e0e0">
+    <nav class="navbar navbar-expand-lg bg-tertiary position-relative">
       <div class="container-fluid">
         <a class="navbar-brand" id="nav-logo">
           <img src="src/image/Logo_sem_fundo.png" alt="Logo" id="logo" width="5%" />
@@ -47,12 +47,6 @@
             </li>
           </ul>
         </div>
-        <form class="d-flex" role="search">
-          <input class="form-control me-2" type="search" placeholder="Procurar Item" aria-label="Search" id="searchBar">
-          <button class="btn btn-outline-success" type="submit">Pesquisar</button>
-        </form>
-    </nav>
-    <div id="results"></div>
   </header>
 
   <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel" align="center">
@@ -75,44 +69,150 @@
 
   <h1 class="h1 titulo-produtos">Livros</h1>
   <div class="card" style="background-color: #eac195;">
-    <span class="border border-primary">
+    <div class="border border-primary">
+
+      <h2 class="h2 subtitulo-produtos">Educativo
+        <a href="livros.html">ver todos</a>
+      </h2>
+
+      <div id="carrosselEducação" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div id="educativo1" class="product-list"></div>
+          </div>
+
+          <div class="carousel-item">
+            <div id="educativo2" class="product-list"></div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carrosselEducação" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carrosselEducação" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+      </div>
+
+      <h2 class="h2 subtitulo-produtos">Educativo
+        <a href="livros.html">ver todos</a>
+      </h2>
+
+      <div id="carrosselFicção" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div id="ficção1" class="product-list"></div>
+          </div>
+
+          <div class="carousel-item">
+            <div id="ficção2" class="product-list"></div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carrosselFicção" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carrosselFicção" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+      </div>
+
       <h2 class="h2 subtitulo-produtos">Quadrinhos
         <a href="livros.html">ver todos</a>
       </h2>
 
-
-      <div id="carouselExample" class="carousel slide">
+      <div id="carrosselQuadrinhos" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
             <div id="quadrinhos1" class="product-list"></div>
           </div>
+
           <div class="carousel-item">
             <div id="quadrinhos2" class="product-list"></div>
           </div>
+
           <div class="carousel-item">
             <div id="quadrinhos3" class="product-list"></div>
           </div>
+
           <div class="carousel-item">
             <div id="quadrinhos4" class="product-list"></div>
           </div>
+
           <div class="carousel-item">
             <div id="quadrinhos5" class="product-list"></div>
           </div>
+
           <div class="carousel-item">
             <div id="quadrinhos6" class="product-list"></div>
           </div>
         </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+        <button class="carousel-control-prev" type="button" data-bs-target="#carrosselQuadrinhos" data-bs-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
           <span class="visually-hidden">Previous</span>
         </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+        <button class="carousel-control-next" type="button" data-bs-target="#carrosselQuadrinhos" data-bs-slide="next">
           <span class="carousel-control-next-icon" aria-hidden="true"></span>
           <span class="visually-hidden">Next</span>
         </button>
       </div>
+    </div>
   </div>
-  </span>
+
+  <h1 class="h1 titulo-produtos">Objetos</h1>
+  <div class="card" style="background-color: #eac195;">
+    <span class="border border-primary">
+      <h2 class="h2 subtitulo-produtos">Decoração
+        <a href="objetos.html">ver todos</a>
+      </h2>
+      <div id="carrosselDecoração" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div id="decoração1" class="product-list"></div>
+          </div>
+        </div>
+      </div>
+  </div>
+
+  <h1 class="h1 titulo-produtos">Roupas</h1>
+  <div class="card" style="background-color: #eac195;">
+    <span class="border border-primary">
+
+      <h2 class="h2 subtitulo-produtos">Masculino
+        <a href="roupas.html">ver todos</a>
+      </h2>
+      <div id="carrosselMasculino" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div id="masculino1" class="product-list"></div>
+          </div>
+        </div>
+      </div>
+
+      <h2 class="h2 subtitulo-produtos">Feminino
+        <a href="roupas.html">ver todos</a>
+      </h2>
+      <div id="carrosselFeminino" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div id="feminino1" class="product-list"></div>
+          </div>
+        </div>
+      </div>
+
+      <h2 class="h2 subtitulo-produtos">Decoração
+        <a href="objetos.html">ver todos</a>
+      </h2>
+      <div id="carrosselAcessórios" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div id="acessórios1" class="product-list"></div>
+          </div>
+        </div>
+      </div>
+  </div>
 
   <footer>
     <div class="card" align="center" style="background-color: #19274e">
@@ -120,7 +220,7 @@
         <b>
           <h4 class="card-title h4">
             Feito Por: <br />
-            ...
+            João Luiz, Regia Stefane, Pedro Lucas, Isabelle, Gabriel, Keven, Helisson, William, Lívia
           </h4>
           <p></p>
           <h4 class="card-title h4">

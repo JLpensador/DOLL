@@ -41,10 +41,36 @@ function loadData(jsonFile, containerId) {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
+  loadData("src/data/educativo/educativo1.json", "educativo1");
+  loadData("src/data/educativo/educativo2.json", "educativo2");
+});
+
+document.addEventListener("DOMContentLoaded", () => {
+  loadData("src/data/ficçao/ficçao1.json", "ficção1");
+  loadData("src/data/ficçao/ficçao2.json", "ficção2");
+});
+
+document.addEventListener("DOMContentLoaded", () => {
   loadData("src/data/quadrinhos/quadrinhos1.json", "quadrinhos1");
   loadData("src/data/quadrinhos/quadrinhos2.json", "quadrinhos2");
   loadData("src/data/quadrinhos/quadrinhos3.json", "quadrinhos3");
   loadData("src/data/quadrinhos/quadrinhos4.json", "quadrinhos4");
   loadData("src/data/quadrinhos/quadrinhos5.json", "quadrinhos5");
   loadData("src/data/quadrinhos/quadrinhos6.json", "quadrinhos6");
+});
+
+document.addEventListener("DOMContentLoaded", () => {
+  loadData("src/data/decoracao/decoracao1.json", "decoração1");
+});
+
+document.addEventListener("DOMContentLoaded", () => {
+  loadData("src/data/masculino/masculino1.json", "masculino1");
+});
+
+document.addEventListener("DOMContentLoaded", () => {
+  loadData("src/data/feminino/feminino1.json", "feminino1");
+});
+
+document.addEventListener("DOMContentLoaded", () => {
+  loadData("src/data/acessorios/acessorios1.json", "acessórios1");
 });
