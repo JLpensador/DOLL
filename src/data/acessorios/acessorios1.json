@@ -2,7 +2,7 @@
   {
     "name": "Cinto Branco e Preto",
     "href": "#",
-    "description": "Acessório Infantil",
+    "description": "Acessório de cintura Infantil",
     "about": "",
     "imageUrl": "src/image/produtos/roupas/cinto.jpg",
     "isTaken": false
@@ -11,7 +11,7 @@
   {
     "name": "Colar Com Joias",
     "href": "#",
-    "description": "Acessório Feminino",
+    "description": "Acessório Feminino de pescoço",
     "about": "",
     "imageUrl": "src/image/produtos/roupas/colarJoias.jpg",
     "isTaken": false
@@ -20,7 +20,7 @@
   {
     "name": "Colar com Cristal",
     "href": "#",
-    "description": "Acessório Feminino",
+    "description": "Acessório Feminino de pescoço",
     "about": "",
     "imageUrl": "src/image/produtos/roupas/colarCristal.jpg",
     "isTaken": false

@@ -2,7 +2,7 @@
   {
     "name": "Camisa de Flor",
     "href": "#",
-    "description": "Camisa Feminina",
+    "description": "Camisa curta Feminina",
     "about": "",
     "imageUrl": "src/image/produtos/roupas/camisaDeFlorFeminina.jpg",
     "isTaken": false
@@ -11,7 +11,7 @@
   {
     "name": "Camisa Amarela",
     "href": "#",
-    "description": "Camisa Feminina",
+    "description": "Camisa curta Feminina",
     "about": "",
     "imageUrl": "src/image/produtos/roupas/camisaAmarelaFeminina.jpg",
     "isTaken": false
