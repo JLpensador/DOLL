@@ -1,0 +1,47 @@
+[
+    {
+      "name": "Espelho Meu",
+      "href": "#",
+      "description": "Livro de Terror",
+      "about": "",
+      "imageUrl": "src/image/produtos/livros/espelhoMeu.jpg",
+      "isTaken": false
+    },
+  
+    {
+      "name": "Feliz dia das Bruxas",
+      "href": "#",
+      "description": "Livro de Terror",
+      "about": "",
+      "imageUrl": "src/image/produtos/livros/bruxas.jpg",
+      "isTaken": false
+    },
+  
+    {
+      "name": "A Fuga de Edgar",
+      "href": "#",
+      "description": "Livro de Terror",
+      "about": "",
+      "imageUrl": "src/image/produtos/livros/edgar.jpg",
+      "isTaken": false
+    },
+  
+    {
+      "name": "O Escritor Fantasma",
+      "href": "#",
+      "description": "Livro de Terror",
+      "about": "",
+      "imageUrl": "src/image/produtos/livros/escritorFantasma.jpg",
+      "isTaken": false
+    },
+
+    {
+        "name": "O Doutor Morte",
+        "href": "#",
+        "description": "Livro de Terror",
+        "about": "",
+        "imageUrl": "src/image/produtos/livros/doutorMorte.jpg",
+        "isTaken": false
+      }
+  ]
+  

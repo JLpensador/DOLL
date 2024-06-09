@@ -48,6 +48,7 @@ document.addEventListener("DOMContentLoaded", () => {
 document.addEventListener("DOMContentLoaded", () => {
   loadData("src/data/ficçao/ficçao1.json", "ficção1");
   loadData("src/data/ficçao/ficçao2.json", "ficção2");
+  loadData("src/data/ficçao/ficçao3.json", "ficção3");
 });
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -60,15 +61,22 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 document.addEventListener("DOMContentLoaded", () => {
+  loadData("src/data/cosmeticos/cosmeticos1.json", "cosmetico1");
+  loadData("src/data/cosmeticos/cosmeticos2.json", "cosmetico2");
+});
+
+document.addEventListener("DOMContentLoaded", () => {
   loadData("src/data/decoracao/decoracao1.json", "decoração1");
 });
 
 document.addEventListener("DOMContentLoaded", () => {
   loadData("src/data/masculino/masculino1.json", "masculino1");
+  loadData("src/data/masculino/masculino2.json", "masculino2");
 });
 
 document.addEventListener("DOMContentLoaded", () => {
   loadData("src/data/feminino/feminino1.json", "feminino1");
+  loadData("src/data/feminino/feminino2.json", "feminino2");
 });
 
 document.addEventListener("DOMContentLoaded", () => {

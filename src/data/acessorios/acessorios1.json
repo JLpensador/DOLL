@@ -9,6 +9,15 @@
   },
 
   {
+    "name": "Chapéu Preto",
+    "href": "#",
+    "description": "Chapéu Preto C Masculino",
+    "about": "",
+    "imageUrl": "src/image/produtos/roupas/chapeuPreto.jpg",
+    "isTaken": false
+  },
+
+  {
     "name": "Colar Com Joias",
     "href": "#",
     "description": "Acessório Feminino de pescoço",

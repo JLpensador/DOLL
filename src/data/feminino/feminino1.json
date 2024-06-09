@@ -15,5 +15,23 @@
     "about": "",
     "imageUrl": "src/image/produtos/roupas/camisaAmarelaFeminina.jpg",
     "isTaken": false
+  },
+
+  {
+    "name": "Sandália Prata",
+    "href": "#",
+    "description": "Sandália Pratida Feminina",
+    "about": "",
+    "imageUrl": "src/image/produtos/roupas/sandaliaPrata.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Sandália de Couro",
+    "href": "#",
+    "description": "Sandália de Couro Feminina",
+    "about": "",
+    "imageUrl": "src/image/produtos/roupas/sandaliaCouro.jpg",
+    "isTaken": false
   }
 ]

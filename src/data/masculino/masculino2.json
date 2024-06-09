@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Bermuda Nike",
+    "href": "#",
+    "description": "Bermuda Esportiva Cinza Nike",
+    "about": "",
+    "imageUrl": "src/image/produtos/roupas/bermudaNike.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Bermuda Cinza Listrada",
+    "href": "#",
+    "description": "Bermuda Cinza Listrada de Praia",
+    "about": "",
+    "imageUrl": "src/image/produtos/roupas/bermudaListradaMasculina.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Bermuda Verde Listrada",
+    "href": "#",
+    "description": "Bermuda Verde Listrada de Praia",
+    "about": "",
+    "imageUrl": "src/image/produtos/roupas/bermudaVerdeMasculina.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Sunga Colorida",
+    "href": "#",
+    "description": "Roupa de Banho de Praia",
+    "about": "",
+    "imageUrl": "src/image/produtos/roupas/sunga.jpg",
+    "isTaken": false
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Copo Laranja",
+    "href": "#",
+    "description": "Copo de plástico Conjunto",
+    "about": "",
+    "imageUrl": "src/image/produtos/objetos/copoLaranja.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Copo Verde",
+    "href": "#",
+    "description": "Copo de plástico Conjunto",
+    "about": "",
+    "imageUrl": "src/image/produtos/objetos/copoVerde.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Copo Azul",
+    "href": "#",
+    "description": "Copo de plástico Conjunto",
+    "about": "",
+    "imageUrl": "src/image/produtos/objetos/copoAzul.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Copo Amarelo",
+    "href": "#",
+    "description": "Copo de plástico Conjunto",
+    "about": "",
+    "imageUrl": "src/image/produtos/objetos/copoAmarelo.jpg",
+    "isTaken": false
+  }
+]

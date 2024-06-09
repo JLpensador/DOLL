@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Garrafa Térmica Roxa",
+        "href": "#",
+        "description": "Item Térmico de Bebida",
+        "about": "",
+        "imageUrl": "src/image/produtos/objetos/garrafaTermicaRoxa.jpg",
+        "isTaken": false
+    },
+    {
+        "name": "Garrafa de Café Térmica",
+        "href": "#",
+        "description": "Item Térmico de Bebida",
+        "about": "",
+        "imageUrl": "src/image/produtos/objetos/garrafaCafe.jpg",
+        "isTaken": false
+    },
+    {
+        "name": "Garrafa Body",
+        "href": "#",
+        "description": "Garrafa de academia",
+        "about": "",
+        "imageUrl": "src/image/produtos/objetos/garrafaBody.jpg",
+        "isTaken": false
+    },
+
+    {
+        "name": "Copo do Brasil",
+        "href": "#",
+        "description": "Copo Torcedor Brasil 2022",
+        "about": "",
+        "imageUrl": "src/image/produtos/objetos/copoBrasil.jpg",
+        "isTaken": false
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+      "name": "Salto Prata",
+      "href": "#",
+      "description": "Salto Alto Pratiado Feminino",
+      "about": "",
+      "imageUrl": "src/image/produtos/roupas/saltoPrata.jpg",
+      "isTaken": false
+    },
+  
+    {
+      "name": "Salto de Couro",
+      "href": "#",
+      "description": "Salto Alto de Couro Feminino",
+      "about": "",
+      "imageUrl": "src/image/produtos/roupas/saltoCouro.jpg",
+      "isTaken": false
+    },
+  
+    {
+      "name": "Salto Joias",
+      "href": "#",
+      "description": "Salto Alto com Joias Feminino",
+      "about": "",
+      "imageUrl": "src/image/produtos/roupas/saltoJoias.jpg",
+      "isTaken": false
+    }
+  ]
+  

@@ -1,10 +1,37 @@
 [
   {
-    "name": "Sunga Colorida",
+    "name": "Camisa Lakers",
     "href": "#",
-    "description": "Roupa de Banho de Praia",
+    "description": "Camisa Número 23 Lebron James",
     "about": "",
-    "imageUrl": "src/image/produtos/roupas/sunga.jpg",
+    "imageUrl": "src/image/produtos/roupas/camisaLakers.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Camisa Brasil",
+    "href": "#",
+    "description": "Camisa Número 10 Neymar",
+    "about": "",
+    "imageUrl": "src/image/produtos/roupas/camisaBrasil.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Camisa Bart Simpson",
+    "href": "#",
+    "description": "Camisa Cinza Bart Simpson Rico",
+    "about": "",
+    "imageUrl": "src/image/produtos/roupas/camisaBartMasculino.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Camisa Iron Maiden",
+    "href": "#",
+    "description": "Camisa Fear of The Dark",
+    "about": "",
+    "imageUrl": "src/image/produtos/roupas/camisaIronMaiden.jpg",
     "isTaken": false
   }
 ]
