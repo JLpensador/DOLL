@@ -20,7 +20,7 @@
   {
     "name": "Colar Com Joias",
     "href": "#",
-    "description": "Acessório Feminino de pescoço",
+    "description": "Acessório de pescoço",
     "about": "",
     "imageUrl": "src/image/produtos/roupas/colarJoias.jpg",
     "isTaken": false
@@ -29,7 +29,7 @@
   {
     "name": "Colar com Cristal",
     "href": "#",
-    "description": "Acessório Feminino de pescoço",
+    "description": "Acessório de pescoço",
     "about": "",
     "imageUrl": "src/image/produtos/roupas/colarCristal.jpg",
     "isTaken": false

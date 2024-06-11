@@ -18,11 +18,11 @@
   },
 
   {
-    "name": "Camisa Bart Simpson",
+    "name": "Camisa Paramount",
     "href": "#",
-    "description": "Camisa Cinza Bart Simpson Rico",
+    "description": "Camisa Preta do Estúdio Paramount",
     "about": "",
-    "imageUrl": "src/image/produtos/roupas/camisaBartMasculino.jpg",
+    "imageUrl": "src/image/produtos/roupas/camisaParamount.jpg",
     "isTaken": false
   },
 
