@@ -24,6 +24,15 @@
       "about": "",
       "imageUrl": "src/image/produtos/roupas/saltoJoias.jpg",
       "isTaken": false
+    },
+
+    {
+      "name": "Brinco Colorido",
+      "href": "#",
+      "description": "Brinco Redondo Multicor",
+      "about": "",
+      "imageUrl": "src/image/produtos/roupas/brincoRedondoColorido.jpg",
+      "isTaken": false
     }
   ]
   

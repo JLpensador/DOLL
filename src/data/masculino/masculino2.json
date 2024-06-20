@@ -27,11 +27,11 @@
   },
 
   {
-    "name": "Sunga Colorida",
+    "name": "Camisa Chang",
     "href": "#",
-    "description": "Roupa de Banho de Praia",
+    "description": "Camisa Branca Chang Beer",
     "about": "",
-    "imageUrl": "src/image/produtos/roupas/sunga.jpg",
+    "imageUrl": "src/image/produtos/roupas/camisaChang.jpg",
     "isTaken": false
   }
 ]
