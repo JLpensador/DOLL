@@ -13,7 +13,7 @@ function atualizarBotão(id) {
   const Botão = document.getElementById("Botão_" + id);
   const estadoAtual = localStorage.getItem("produto_" + id);
   if (estadoAtual === "pegado") {
-    Botão.textContent = "Devolver";
+    Botão.textContent = "Esgotado";
   } else {
     Botão.textContent = "Pegar";
   }
