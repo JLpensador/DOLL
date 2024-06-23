@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Almanaque do Cebolinha",
+    "href": "#",
+    "description": "Almanaque da Turma da Mônica",
+    "about": "",
+    "imageUrl": "src/image/produtos/livros/almanaque.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Minecraft a Vingança",
+    "href": "#",
+    "description": "Quadrinho do Minecraft",
+    "about": "",
+    "imageUrl": "src/image/produtos/livros/minecraft.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Comboio para o Inferno",
+    "href": "#",
+    "description": "Batman, Grandes Astros",
+    "about": "",
+    "imageUrl": "src/image/produtos/livros/comboioInferno.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Brinquedo Velho, Alegria Nova",
+    "href": "#",
+    "description": "Quadrinho do Sesinho",
+    "about": "",
+    "imageUrl": "src/image/produtos/livros/brinquedoVelho.jpg",
+    "isTaken": false
+  }
+]

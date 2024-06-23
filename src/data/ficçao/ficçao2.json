@@ -9,15 +9,6 @@
   },
 
   {
-    "name": "Minecraft a Vingança",
-    "href": "#",
-    "description": "Livro de Aventura",
-    "about": "",
-    "imageUrl": "src/image/produtos/livros/minecraft.jpg",
-    "isTaken": false
-  },
-
-  {
     "name": "Huckleberry Finn",
     "href": "#",
     "description": "Livro de Aventura",
@@ -32,6 +23,15 @@
     "description": "Livro de Suspense",
     "about": "",
     "imageUrl": "src/image/produtos/livros/casaDeSegredos.jpg",
+    "isTaken": false
+  },
+
+  {
+    "name": "Espelho Meu",
+    "href": "#",
+    "description": "Livro de Terror",
+    "about": "",
+    "imageUrl": "src/image/produtos/livros/espelhoMeu.jpg",
     "isTaken": false
   }
 ]

@@ -58,6 +58,8 @@ document.addEventListener("DOMContentLoaded", () => {
   loadData("src/data/quadrinhos/quadrinhos4.json", "quadrinhos4");
   loadData("src/data/quadrinhos/quadrinhos5.json", "quadrinhos5");
   loadData("src/data/quadrinhos/quadrinhos6.json", "quadrinhos6");
+  loadData("src/data/quadrinhos/quadrinhos7.json", "quadrinhos7");
+  loadData("src/data/quadrinhos/quadrinhos8.json", "quadrinhos8");
 });
 
 document.addEventListener("DOMContentLoaded", () => {

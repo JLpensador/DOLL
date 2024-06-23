@@ -1,13 +1,4 @@
-[
-    {
-      "name": "Espelho Meu",
-      "href": "#",
-      "description": "Livro de Terror",
-      "about": "",
-      "imageUrl": "src/image/produtos/livros/espelhoMeu.jpg",
-      "isTaken": false
-    },
-  
+[ 
     {
       "name": "Feliz dia das Bruxas",
       "href": "#",

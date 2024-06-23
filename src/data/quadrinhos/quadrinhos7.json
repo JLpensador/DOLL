@@ -1,0 +1,38 @@
+[
+    {
+      "name": "A Culpa é Sempre dos Outros",
+      "href": "#",
+      "description": "Quadrinhos da Turma da Mônica",
+      "about": "",
+      "imageUrl": "src/image/produtos/livros/culpaOutros.jpg",
+      "isTaken": false
+    },
+  
+    {
+      "name": "Última Vaga para o Planeta Vulkano",
+      "href": "#",
+      "description": "Quadrinhos da Turma da Mônica",
+      "about": "",
+      "imageUrl": "src/image/produtos/livros/vagaParaVulkano.jpg",
+      "isTaken": false
+    },
+  
+    {
+      "name": "O Mistério do Saco sem Fundo",
+      "href": "#",
+      "description": "Quadrinhos da Turma da Mônica",
+      "about": "",
+      "imageUrl": "src/image/produtos/livros/sacoSemFundo.jpg",
+      "isTaken": false
+    },
+  
+    {
+      "name": "O Incorrigível",
+      "href": "#",
+      "description": "Quadrinhos da Turma da Mônica",
+      "about": "",
+      "imageUrl": "src/image/produtos/livros/incorrigivel.jpg",
+      "isTaken": false
+    }
+  ]
+  
