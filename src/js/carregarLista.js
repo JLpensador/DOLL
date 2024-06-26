@@ -49,6 +49,7 @@ document.addEventListener("DOMContentLoaded", () => {
   loadData("src/data/ficçao/ficçao1.json", "ficção1");
   loadData("src/data/ficçao/ficçao2.json", "ficção2");
   loadData("src/data/ficçao/ficçao3.json", "ficção3");
+  loadData("src/data/ficçao/ficçao4.json", "ficção4");
 });
 
 document.addEventListener("DOMContentLoaded", () => {
